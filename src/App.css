@@ -1,0 +1,12 @@
+/* src/styles/App.css */
+.App {
+  margin-top: 20px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.MuiButton-root {
+  margin-top: 10px;
+}
